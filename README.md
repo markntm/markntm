@@ -1,4 +1,12 @@
-## Hi there 👋
+- Hi, I’m MARK
+- I’m interested in LEARNING TO SUCCESSFULLY PROGRAM
+- I’m currently learning OBJECT ORIENTED PROGRAMMING
+- I'm originally from HAWAI'I
+- I'm a FRESHMAN in COMPUTER ENGINEERING
+- I chose my major because I LIKE COMPUTERS AND ENGINEERING
+- A fun fact about me is:  I JUST MADE THIS ACCOUNT
+- What do I want to learn from EE 205?  A VARIETY OF DIFFERENT LANGUAGES AND WAYS TO PROGRAM
+- A book or movie I'd recommend is:  TINTIN
 
 <!--
 **markntm/markntm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
